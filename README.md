@@ -1,6 +1,6 @@
-<img width="711" height="400" alt="0001-6910155103468670420" src="https://github.com/user-attachments/assets/150ecf9a-f32d-4a49-b32e-1ecb318b0eda" />
 <p align="center">
   <img
+    width="711" height="400"
     src="https://github.com/user-attachments/assets/24fb8672-ee9d-4e25-be32-11259294fc3f"
     alt="Himanshu Upmanyu Banner"
     width="100%"
