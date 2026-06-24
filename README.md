@@ -1,4 +1,12 @@
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/c643dedd-3290-4836-ba38-fe382fe1f222"
+    alt="Himanshu Upmanyu Banner"
+    width="100%"
+  />
+</p>
+
 <!--
 **himanshuupmanyu/himanshuupmanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
