@@ -123,8 +123,8 @@ Production-ready Node.js architecture.
 
 ## 🌐 Connect With Me
 
-- 📸 **Instagram:** [@upmanyucodes](https://www.instagram.com/upmanyucodes?igsh=MTJpMjF1dmtlOXBleQ==)
-- 💼 **LinkedIn:** [Himanshu Upmanyu](https://www.linkedin.com/in/himanshu-upmanyu-ba179922a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📸 **Instagram:** [@upmanyucodes](https://www.instagram.com/upmanyucodes)
+- 💼 **LinkedIn:** [Himanshu Upmanyu](https://www.linkedin.com/in/himanshu-upmanyu-ba179922a)
 - 📧 **Email:** himanshuupmanyu007@gmail.com
 
 ---
