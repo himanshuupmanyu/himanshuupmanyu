@@ -123,9 +123,9 @@ Production-ready Node.js architecture.
 
 ## 🌐 Connect With Me
 
-- Instagram: @upmanyucodes
-- LinkedIn: Himanshu Upmanyu
-- Email: himanshuupmanyu007@gmail.com
+- 📸 **Instagram:** [@upmanyucodes](https://www.instagram.com/upmanyucodes?igsh=MTJpMjF1dmtlOXBleQ==)
+- 💼 **LinkedIn:** [Himanshu Upmanyu](https://www.linkedin.com/in/himanshu-upmanyu-ba179922a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 **Email:** himanshuupmanyu007@gmail.com
 
 ---
 
