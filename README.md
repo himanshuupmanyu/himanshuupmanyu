@@ -46,19 +46,43 @@ Learning:
 → Scalable Systems
 ```
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) [](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) [](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) [](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+# ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+# ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### Database
+### 🔌 API & Documentation
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI & Cloud
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🤖 AI
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square)
+![AI Automation](https://img.shields.io/badge/AI_Automation-FF6B6B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=flat-square)
+
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=flat-square)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square)
 
 ---
 
