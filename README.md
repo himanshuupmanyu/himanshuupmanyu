@@ -57,7 +57,8 @@ Learning:
 # ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 # ![express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 
-![](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg), [](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg), [](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg), [](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) [](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg) [](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) [](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
