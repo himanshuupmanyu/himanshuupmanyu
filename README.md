@@ -50,7 +50,7 @@ Learning:
 
 ### Backend
 # ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
+![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 # ![Java](https://img.shields.io/badge/Java-007396?style=flat-square)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 # ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
